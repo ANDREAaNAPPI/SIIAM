@@ -6,7 +6,7 @@ Here you can find:
 
   
   "Etica e governance dell'intelligenza artificiale per la salute" is the italian adaptation, translated from english and placed in the italian healthcare reality, of the WHO guidelines on etics and governance of   artificial intelligence for health. Published by Zadig
-- [Survival prediction for patients undergoing cystectomy](https://github.com/ANDREAaNAPPI/SIIAM/blob/main/A%20Machine%20Learning%20Algorithm%20for%20Survival%20Prediction%20in%20Bladder%20Cancer%20Patients%20undergoing%20Cystectomy.pdf):
+- [Survival prediction for patients undergoing cystectomy -PREPRINT-](https://github.com/ANDREAaNAPPI/SIIAM/blob/main/A%20Machine%20Learning%20Algorithm%20for%20Survival%20Prediction%20in%20Bladder%20Cancer%20Patients%20undergoing%20Cystectomy%20PREPRINT.pdf):
 
   
   "A Machine Learning Algorithm for Survival Prediction in Bladder Cancer Patients Undergoing Cystectomy" presents a machine learning model using CatBoost to predict survival outcomes and tumor-related death in bladder cancer patients undergoing cystectomy. Ongoing publishing.
